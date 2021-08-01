@@ -1,0 +1,16 @@
+com\vitelco\ordermanagement\repository\CustomerRepository.class
+com\vitelco\ordermanagement\controller\CustomerController.class
+com\vitelco\ordermanagement\service\CustomerService.class
+com\vitelco\ordermanagement\controller\OrderController.class
+com\vitelco\ordermanagement\model\Order.class
+com\vitelco\ordermanagement\OrdermanagementApplication.class
+com\vitelco\ordermanagement\repository\ProductRepository.class
+com\vitelco\ordermanagement\repository\OrderRepository.class
+com\vitelco\ordermanagement\service\ProductService.class
+com\vitelco\ordermanagement\model\Product.class
+com\vitelco\ordermanagement\service\CustomerServiceImpl.class
+com\vitelco\ordermanagement\exception\NotFoundException.class
+com\vitelco\ordermanagement\model\Customer.class
+com\vitelco\ordermanagement\service\ProductServiceImpl.class
+com\vitelco\ordermanagement\service\OrderServiceImpl.class
+com\vitelco\ordermanagement\controller\ProductController.class
